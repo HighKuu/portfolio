@@ -1,10 +1,10 @@
-# Mon Portfolio
+# Halim Portfolio
 
 [![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue)](https://highkuu.github.io/portfolio)
 
 ## 🚀 À propos
 
-Portfolio personnel présentant mes projets et compétences en développement web.
+Portfolio personnel présentant mes projets et compétences en Analyse de donnée.
 
 **🔗 Visiter le portfolio : [highkuu.github.io/portfolio](https://highkuu.github.io/portfolio)**
 
