@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'SQL', 'Tableau', 'Power BI', 'Numpy', 'Pandas'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,33 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! I am Halim and I enjoy exploring how data can help us better understand the
+              world. I discovered data at a moment when I was looking to give new meaning to my
+              career. What drew me in wasn’t just the numbers, but the way data can tell stories,
+              reveal hidden patterns, and guide better decisions. That’s the mindset I want to keep
+              cultivating: using data to support projects that are concrete, useful, and deeply
+              grounded in real life.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.decathlon.fr/">Decathlon</a>,{' '}
+              <a href="https://www.climb-up.fr/">Climb Up</a>,{' '}
+              <a href="https://www.mondialrelay.fr/">a huge corporation (Mondial relay)</a>. My main
+              focus these days is working on small and meaningful datasets such as Ilévia to design
+              clear, insightful, and accessible data experiences{' '}
+              <a href="https://github.com/HighKuu/Ilevia/">Ilévia</a>’s public transport network
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              My goal is to join a company on a work-study program in{' '}
+              <a
+                href="https://2902314.fs1.hubspotusercontent-na1.net/hubfs/2902314/01%20FR%20Syllabus/Syllabus_Data%20Engineer_Alternance_aout25.pdf"
+                target="_blank"
+                rel="noopener noreferrer">
+                data engineering
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              to perfect my skills.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +176,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/halim.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
