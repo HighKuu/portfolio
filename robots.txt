@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://halimmoulay.com/sitemap-index.xml
-Host: https://halimmoulay.com
+Sitemap: https://highkuu.github.io/portfolio/sitemap-index.xml
+Host: https://highkuu.github.io
