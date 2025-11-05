@@ -1,4 +1,4 @@
-# Mon Portfolio
+# Halim Portfolio
 
 [![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue)](https://highkuu.github.io/portfolio)
 
